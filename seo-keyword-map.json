@@ -1,0 +1,208 @@
+[
+  {
+    "primaryKeyword": "medical equipment manufacturer India",
+    "secondaryKeywords": [
+      "hospital equipment supplier India",
+      "medical equipment company India",
+      "medical devices exporter India",
+      "hospital supplies manufacturer Bihar",
+      "EKOSYS Corporation"
+    ],
+    "searchIntent": "Transactional/B2B",
+    "targetPage": "/",
+    "location": "India, Bihar, Hajipur"
+  },
+  {
+    "primaryKeyword": "hospital furniture manufacturer India",
+    "secondaryKeywords": [
+      "medical furniture supplier",
+      "hospital bed manufacturer India",
+      "ICU beds supplier",
+      "hospital ward furniture",
+      "bedside lockers supplier"
+    ],
+    "searchIntent": "Commercial Investigation",
+    "targetPage": "/products/hospital-medical-furniture",
+    "category": "hospital-medical-furniture",
+    "location": "India"
+  },
+  {
+    "primaryKeyword": "ICU bed manufacturer India",
+    "secondaryKeywords": [
+      "motorized ICU bed price",
+      "electric ICU bed specifications",
+      "5 function ICU bed supplier",
+      "ICU patient bed India",
+      "CPR release hospital bed"
+    ],
+    "searchIntent": "Commercial Investigation",
+    "targetPage": "/products/hospital-medical-furniture/icu-beds",
+    "category": "hospital-medical-furniture",
+    "subcategory": "icu-beds",
+    "location": "India"
+  },
+  {
+    "primaryKeyword": "ICU bed premium model EK-01011A",
+    "secondaryKeywords": [
+      "motorized ICU bed quotation",
+      "EKOSYS ICU bed price",
+      "electric hospital bed technical sheet"
+    ],
+    "searchIntent": "Transactional/B2B",
+    "targetPage": "/products/hospital-medical-furniture/icu-beds/icu-beds-premium",
+    "category": "hospital-medical-furniture",
+    "subcategory": "icu-beds",
+    "product": "icu-beds-premium"
+  },
+  {
+    "primaryKeyword": "orthopaedic implants manufacturer India",
+    "secondaryKeywords": [
+      "titanium bone plate supplier",
+      "interlocking nails manufacturer",
+      "orthopedic trauma implants",
+      "orthopedic surgical power tools"
+    ],
+    "searchIntent": "Commercial Investigation",
+    "targetPage": "/products/orthopaedic-implants",
+    "category": "orthopaedic-implants",
+    "location": "India"
+  },
+  {
+    "primaryKeyword": "operating table manufacturer India",
+    "secondaryKeywords": [
+      "OT table supplier",
+      "electro hydraulic surgical table",
+      "C-arm compatible operating table",
+      "hydraulic OT table price"
+    ],
+    "searchIntent": "Commercial Investigation",
+    "targetPage": "/products/ot-tables",
+    "category": "ot-tables",
+    "location": "India"
+  },
+  {
+    "primaryKeyword": "surgical light manufacturer India",
+    "secondaryKeywords": [
+      "LED OT light supplier",
+      "shadowless operating light",
+      "ceiling surgical light 160000 lux",
+      "twin dome surgical light"
+    ],
+    "searchIntent": "Commercial Investigation",
+    "targetPage": "/products/ot-examination-lights",
+    "category": "ot-examination-lights",
+    "location": "India"
+  },
+  {
+    "primaryKeyword": "ICU equipment supplier India",
+    "secondaryKeywords": [
+      "patient monitor manufacturer",
+      "ICU ventilator supplier",
+      "infusion pump price",
+      "biphasic defibrillator supplier"
+    ],
+    "searchIntent": "Commercial Investigation",
+    "targetPage": "/products/icu-equipment",
+    "category": "icu-equipment",
+    "location": "India"
+  },
+  {
+    "primaryKeyword": "hospital autoclave sterilizer manufacturer",
+    "secondaryKeywords": [
+      "horizontal autoclave price",
+      "vertical autoclave supplier",
+      "CSSD steam sterilizer India",
+      "high pressure autoclave 134C"
+    ],
+    "searchIntent": "Commercial Investigation",
+    "targetPage": "/products/autoclave-sterilizers",
+    "category": "autoclave-sterilizers",
+    "location": "India"
+  },
+  {
+    "primaryKeyword": "medical imaging equipment supplier India",
+    "secondaryKeywords": [
+      "C-arm fluoroscopy machine",
+      "digital radiography X-ray supplier",
+      "ultrasound machine distributor India"
+    ],
+    "searchIntent": "Commercial Investigation",
+    "targetPage": "/products/medical-imaging",
+    "category": "medical-imaging",
+    "location": "India"
+  },
+  {
+    "primaryKeyword": "medical equipment manufacturer in Hajipur Bihar",
+    "secondaryKeywords": [
+      "medical equipment supplier Patna",
+      "hospital furniture manufacturer Bihar",
+      "EKOSYS Corporation Hajipur address",
+      "hospital supplies Vaishali Bihar"
+    ],
+    "searchIntent": "Transactional/B2B",
+    "targetPage": "/contact",
+    "location": "Hajipur, Vaishali, Bihar, India"
+  },
+  {
+    "primaryKeyword": "hospital bed buying guide",
+    "secondaryKeywords": [
+      "how to choose hospital beds",
+      "ICU bed vs fowler bed difference",
+      "hospital bed procurement checklist",
+      "electric vs manual hospital beds"
+    ],
+    "searchIntent": "Informational",
+    "targetPage": "/blog/hospital-bed-buying-guide"
+  },
+  {
+    "primaryKeyword": "ICU equipment procurement guide",
+    "secondaryKeywords": [
+      "ICU setup equipment checklist",
+      "patient monitor specifications guide",
+      "ICU ventilator selection criteria"
+    ],
+    "searchIntent": "Informational",
+    "targetPage": "/blog/icu-equipment-procurement-guide"
+  },
+  {
+    "primaryKeyword": "operating theatre equipment checklist",
+    "secondaryKeywords": [
+      "modular OT setup equipment list",
+      "surgical table and light selection",
+      "electrosurgical unit procurement"
+    ],
+    "searchIntent": "Informational",
+    "targetPage": "/blog/operating-theatre-equipment-checklist"
+  },
+  {
+    "primaryKeyword": "hospital furniture planning guide",
+    "secondaryKeywords": [
+      "ward furniture allocation guide",
+      "bedside locker and overbed table specifications",
+      "ergonomic hospital ward setup"
+    ],
+    "searchIntent": "Informational",
+    "targetPage": "/blog/hospital-furniture-planning-guide"
+  },
+  {
+    "primaryKeyword": "laboratory equipment selection guide",
+    "secondaryKeywords": [
+      "clinical lab instruments buying guide",
+      "centrifuge and autoclave selection",
+      "pathology lab equipment checklist"
+    ],
+    "searchIntent": "Informational",
+    "targetPage": "/blog/laboratory-equipment-selection-guide"
+  },
+  {
+    "primaryKeyword": "medical equipment procurement guide India",
+    "secondaryKeywords": [
+      "hospital equipment tender guidelines India",
+      "ISO 13485 compliance medical devices",
+      "GeM medical equipment procurement"
+    ],
+    "searchIntent": "Informational",
+    "targetPage": "/blog/medical-equipment-procurement-guide-india",
+    "location": "India"
+  }
+]

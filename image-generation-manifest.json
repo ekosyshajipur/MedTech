@@ -1,0 +1,101 @@
+[
+  {
+    "type": "background",
+    "fileName": "hero-medical-theatre.webp",
+    "relPath": "/images/backgrounds/hero-medical-theatre.webp",
+    "width": 1920,
+    "height": 1080,
+    "hash": "4771255a250992a21137d6926ccd291bf6bd1ac96e692f48141bf7205a4bc702",
+    "status": "created"
+  },
+  {
+    "type": "background",
+    "fileName": "icu-critical-care.webp",
+    "relPath": "/images/backgrounds/icu-critical-care.webp",
+    "width": 1600,
+    "height": 900,
+    "hash": "21048e22d30f417c88dd4adf7b11c6a9572cb3e6b4728fee88b7230b60ba888e",
+    "status": "created"
+  },
+  {
+    "type": "background",
+    "fileName": "operating-theatre-cleanroom.webp",
+    "relPath": "/images/backgrounds/operating-theatre-cleanroom.webp",
+    "width": 1600,
+    "height": 900,
+    "hash": "7bf0d69df4b87c6bb4d6199a60ab148d9aca508462a4186d39a23a30b1f2f0a6",
+    "status": "created"
+  },
+  {
+    "type": "background",
+    "fileName": "diagnostic-imaging-suite.webp",
+    "relPath": "/images/backgrounds/diagnostic-imaging-suite.webp",
+    "width": 1600,
+    "height": 900,
+    "hash": "5d9d8404ba2e528b188a0a4d3bfe40d3e1ca439d360a75f01ac14bf9e6131a45",
+    "status": "created"
+  },
+  {
+    "type": "background",
+    "fileName": "laboratory-research.webp",
+    "relPath": "/images/backgrounds/laboratory-research.webp",
+    "width": 1600,
+    "height": 900,
+    "hash": "35d4e1de32dd8bcd85130e955f06a19140425202f4023ce3137f61746a8a2bcd",
+    "status": "created"
+  },
+  {
+    "type": "background",
+    "fileName": "quality-manufacturing.webp",
+    "relPath": "/images/backgrounds/quality-manufacturing.webp",
+    "width": 1600,
+    "height": 900,
+    "hash": "91a1e570448188fc28986f701ce1fb05c8084a2d17a9f19320e0e680fe3b2253",
+    "status": "created"
+  },
+  {
+    "type": "solution",
+    "fileName": "icu-setup.webp",
+    "relPath": "/images/solutions/icu-setup.webp",
+    "width": 1200,
+    "height": 800,
+    "hash": "2b26e00646fb337d090278bfa9bf9fcde5e4e87cf95ad40a3757c11daa09e31d",
+    "status": "created"
+  },
+  {
+    "type": "solution",
+    "fileName": "ot-setup.webp",
+    "relPath": "/images/solutions/ot-setup.webp",
+    "width": 1200,
+    "height": 800,
+    "hash": "4660c968c62ef55c5d1ae4cdbb81c1c1f97452eb69c0a843f45aa53b514545c9",
+    "status": "created"
+  },
+  {
+    "type": "solution",
+    "fileName": "hospital-furniture.webp",
+    "relPath": "/images/solutions/hospital-furniture.webp",
+    "width": 1200,
+    "height": 800,
+    "hash": "27d10f25313673ddd4c75886c9f70592b3ff53f1673f2b210cc2315e361cd17d",
+    "status": "created"
+  },
+  {
+    "type": "solution",
+    "fileName": "diagnostic-setup.webp",
+    "relPath": "/images/solutions/diagnostic-setup.webp",
+    "width": 1200,
+    "height": 800,
+    "hash": "6187385b9b3975e977d005b7301a808cba03288e05f89ded0b09e47e27dcb501",
+    "status": "created"
+  },
+  {
+    "type": "solution",
+    "fileName": "emergency-care.webp",
+    "relPath": "/images/solutions/emergency-care.webp",
+    "width": 1200,
+    "height": 800,
+    "hash": "64fdfa08f99fa33a0d6ad11b5d15102da03d18767f946f22a90c2d34a7e8f1f8",
+    "status": "created"
+  }
+]

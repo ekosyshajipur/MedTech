@@ -1,0 +1,166 @@
+[
+  {
+    "id": "sub_1788717211614_vyuyzufyf",
+    "referenceId": "EKO-NWS-2026-80101614",
+    "type": "newsletter",
+    "createdAt": "2026-09-06T17:53:31.614Z",
+    "status": "new",
+    "data": {
+      "email": "subscriber@hospital.com",
+      "timestamp": "2026-09-06T17:53:31.614Z"
+    }
+  },
+  {
+    "id": "sub_1788717203549_u7zjal6pz",
+    "referenceId": "EKO-FDB-2026-41813549",
+    "type": "feedback",
+    "createdAt": "2026-09-06T17:53:23.549Z",
+    "status": "new",
+    "data": {
+      "name": "Nurse Joy",
+      "email": "joy@hospital.org",
+      "rating": 5,
+      "category": "Product Quality",
+      "message": "Superb ICU bed ergonomics.",
+      "timestamp": "2026-09-06T17:53:23.549Z"
+    }
+  },
+  {
+    "id": "sub_1788717199258_tvstfnbgf",
+    "referenceId": "EKO-DST-2026-86329258",
+    "type": "distributor",
+    "createdAt": "2026-09-06T17:53:19.258Z",
+    "status": "new",
+    "data": {
+      "companyName": "Apex Health Ltd",
+      "contactPerson": "John Doe",
+      "email": "john@apexhealth.com",
+      "phone": "+919876543210",
+      "country": "India",
+      "city": "Patna",
+      "currentBusiness": "",
+      "yearsInBusiness": "",
+      "annualRevenue": "",
+      "productInterests": "",
+      "message": "Dealership request",
+      "timestamp": "2026-09-06T17:53:19.258Z"
+    }
+  },
+  {
+    "id": "sub_1788717195090_l0jerhej5",
+    "referenceId": "EKO-ENQ-2026-35345090",
+    "type": "enquiry",
+    "createdAt": "2026-09-06T17:53:15.090Z",
+    "status": "new",
+    "data": {
+      "name": "Hospital Procurement",
+      "email": "purchase@hospital.org",
+      "phone": "+919876543210",
+      "company": "",
+      "category": "",
+      "product": "EK-ICU817A",
+      "quantity": "10",
+      "deliveryRequirements": "Standard Delivery",
+      "message": "Quote for 10 ICU beds",
+      "timestamp": "2026-09-06T17:53:15.090Z"
+    }
+  },
+  {
+    "id": "sub_1788717190781_lxzchd6e1",
+    "referenceId": "EKO-CON-2026-51930781",
+    "type": "contact",
+    "createdAt": "2026-09-06T17:53:10.781Z",
+    "status": "new",
+    "data": {
+      "name": "Dr. Test Kumar",
+      "email": "test@example.com",
+      "phone": "+919876543210",
+      "company": "",
+      "subject": "Inquiry",
+      "message": "Testing contact API",
+      "timestamp": "2026-09-06T17:53:10.780Z"
+    }
+  },
+  {
+    "id": "sub_1788717122855_an06r3a5k",
+    "referenceId": "EKO-NWS-2026-30972855",
+    "type": "newsletter",
+    "createdAt": "2026-09-06T17:52:02.855Z",
+    "status": "new",
+    "data": {
+      "email": "subscriber@hospital.com",
+      "timestamp": "2026-09-06T17:52:02.855Z"
+    }
+  },
+  {
+    "id": "sub_1788717117743_lj9btc5uc",
+    "referenceId": "EKO-FDB-2026-82517743",
+    "type": "feedback",
+    "createdAt": "2026-09-06T17:51:57.743Z",
+    "status": "new",
+    "data": {
+      "name": "Nurse Joy",
+      "email": "joy@hospital.org",
+      "rating": 5,
+      "category": "Product Quality",
+      "message": "Superb ICU bed ergonomics.",
+      "timestamp": "2026-09-06T17:51:57.742Z"
+    }
+  },
+  {
+    "id": "sub_1788717113634_nwnbgha2n",
+    "referenceId": "EKO-DST-2026-86753634",
+    "type": "distributor",
+    "createdAt": "2026-09-06T17:51:53.634Z",
+    "status": "new",
+    "data": {
+      "companyName": "Apex Health Ltd",
+      "contactPerson": "John Doe",
+      "email": "john@apexhealth.com",
+      "phone": "+919876543210",
+      "country": "India",
+      "city": "Patna",
+      "currentBusiness": "",
+      "yearsInBusiness": "",
+      "annualRevenue": "",
+      "productInterests": "",
+      "message": "Dealership request",
+      "timestamp": "2026-09-06T17:51:53.634Z"
+    }
+  },
+  {
+    "id": "sub_1788717102671_6jms7um2s",
+    "referenceId": "EKO-ENQ-2026-80162670",
+    "type": "enquiry",
+    "createdAt": "2026-09-06T17:51:42.671Z",
+    "status": "new",
+    "data": {
+      "name": "Hospital Procurement",
+      "email": "purchase@hospital.org",
+      "phone": "+919876543210",
+      "company": "",
+      "category": "",
+      "product": "EK-ICU817A",
+      "quantity": "10",
+      "deliveryRequirements": "Standard Delivery",
+      "message": "Quote for 10 ICU beds",
+      "timestamp": "2026-09-06T17:51:42.670Z"
+    }
+  },
+  {
+    "id": "sub_1788717098158_sflvhcktx",
+    "referenceId": "EKO-CON-2026-43868157",
+    "type": "contact",
+    "createdAt": "2026-09-06T17:51:38.158Z",
+    "status": "new",
+    "data": {
+      "name": "Dr. Test Kumar",
+      "email": "test@example.com",
+      "phone": "+919876543210",
+      "company": "",
+      "subject": "Inquiry",
+      "message": "Testing contact API",
+      "timestamp": "2026-09-06T17:51:38.155Z"
+    }
+  }
+]
